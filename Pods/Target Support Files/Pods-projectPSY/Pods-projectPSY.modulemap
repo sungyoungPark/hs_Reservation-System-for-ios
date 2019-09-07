@@ -1,0 +1,6 @@
+framework module Pods_projectPSY {
+  umbrella header "Pods-projectPSY-umbrella.h"
+
+  export *
+  module * { export * }
+}

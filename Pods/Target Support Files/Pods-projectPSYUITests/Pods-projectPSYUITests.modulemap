@@ -1,0 +1,6 @@
+framework module Pods_projectPSYUITests {
+  umbrella header "Pods-projectPSYUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
